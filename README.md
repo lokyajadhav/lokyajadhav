@@ -28,7 +28,7 @@
 
 <br clear="both">
 
-<p align="left">👋 Hi there! I’m Lokya Naik, a passionate Full Stack Developer with 2.5+ years of experience building scalable, microservice-based web applications using Spring Boot, Angular, and React.<br>I specialize in designing and developing RESTful APIs, responsive UIs, and containerized deployments, ensuring clean architecture and maintainable code.</p>
+<p align="left">👋 Hi there! I’m Lokya Naik, a passionate Full Stack Developer with 2.5+ years of experience building scalable, microservice-based web applications using Spring Boot, Angular, and React.<br> <br>I'm specialized in designing and developing RESTful APIs, responsive UIs, and containerized deployments, ensuring clean architecture and maintainable code.</p>
 
 ###
 
